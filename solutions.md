@@ -54,6 +54,9 @@ Include the plot here.
 
 ## Basic model simulation (different initial conditions)
 
+![initial condition](https://github.com/Parulkm/assignment-template/assets/168579289/4088596a-e38a-4e19-ba5e-047430d66afc)
+
+
 ### Include two box plots below, one for number of transitions and another for transition time
 Include the plots here.
 
